@@ -1,5 +1,3 @@
-# ChessStudy
-
 # StudyChess
 
 StudyChess is a tool designed to assist players in their study of chess. It differs from other tools with a heavy focus on memorization and analysis of amateur and master games.
