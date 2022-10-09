@@ -1,3 +1,5 @@
+# ChessStudy
+
 # StudyChess
 
 StudyChess is a tool designed to assist players in their study of chess. It differs from other tools with a heavy focus on memorization and analysis of amateur and master games.
@@ -13,3 +15,10 @@ There are many explanations as to why weaker players do not improve however ofte
 Bobby Fischer said that "tactics flow from a superior position" but players often do not achieve (and are often unable to maintain) this surperior position because they do not know what ideas they should go for or even what sort of moves would be suitable to the position. Players solve puzzles but are rarely able to put this skill to use whilst they are desparately trying to defend a hopeless position.
 
 StudyChess believes there is a solution, to study master games. Through memorizing games, players build intuition for what ideas are available in a position. Though analysing games, players develop the skill of searching for tactical ideas and finding simple but solid moves. Studying openings and solving puzzles is important but without strong foundations in how a game of chess is actually won, it is useless.
+
+## Features
+
+ - Exercises to assist and test memorization of games.
+ - Exercises to test understanding of moves.
+ - Tactics to solve which could have but did not occur in the game.
+ - Appropriate and detailed explanations of certain moves with analysis of other lines from both perspectives.
